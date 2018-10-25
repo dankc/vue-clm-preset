@@ -4,7 +4,7 @@
   "vuex": true,
   "cssPreprocessor": "sass",
   "plugins": {
-    "dankiser/vue-cli-plugin-clm": {
+    "dankc/vue-cli-plugin-clm": {
       "prompts": "true"
     }
   }
