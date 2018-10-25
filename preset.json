@@ -1,0 +1,11 @@
+{
+  "useConfigFiles": false,
+  "router": true,
+  "vuex": true,
+  "cssPreprocessor": "sass",
+  "plugins": {
+    "dankiser/vue-cli-plugin-clm": {
+      "prompts": "true"
+    }
+  }
+}
